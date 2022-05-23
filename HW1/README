@@ -1,0 +1,11 @@
+//Karageorgos_Nikolaos_2528 
+//Lamprinos_Isidoros_2551
+
+This folder contains:
+
+- A folder for each optimization code version which includes  the source code and a makefile for its compilation. 
+  The makefile is set with flag -O0.
+  
+- A pdf file of the report
+
+- An excel file which includes the execution times and their diagrams.
